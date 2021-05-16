@@ -1,0 +1,13 @@
+C:\Users\home\source\repos\assgt31\assgt31\bin\Debug\netcoreapp3.1\assgt31.exe
+C:\Users\home\source\repos\assgt31\assgt31\bin\Debug\netcoreapp3.1\assgt31.deps.json
+C:\Users\home\source\repos\assgt31\assgt31\bin\Debug\netcoreapp3.1\assgt31.runtimeconfig.json
+C:\Users\home\source\repos\assgt31\assgt31\bin\Debug\netcoreapp3.1\assgt31.runtimeconfig.dev.json
+C:\Users\home\source\repos\assgt31\assgt31\bin\Debug\netcoreapp3.1\assgt31.dll
+C:\Users\home\source\repos\assgt31\assgt31\bin\Debug\netcoreapp3.1\assgt31.pdb
+C:\Users\home\source\repos\assgt31\assgt31\obj\Debug\netcoreapp3.1\assgt31.csprojAssemblyReference.cache
+C:\Users\home\source\repos\assgt31\assgt31\obj\Debug\netcoreapp3.1\assgt31.AssemblyInfoInputs.cache
+C:\Users\home\source\repos\assgt31\assgt31\obj\Debug\netcoreapp3.1\assgt31.AssemblyInfo.cs
+C:\Users\home\source\repos\assgt31\assgt31\obj\Debug\netcoreapp3.1\assgt31.csproj.CoreCompileInputs.cache
+C:\Users\home\source\repos\assgt31\assgt31\obj\Debug\netcoreapp3.1\assgt31.dll
+C:\Users\home\source\repos\assgt31\assgt31\obj\Debug\netcoreapp3.1\assgt31.pdb
+C:\Users\home\source\repos\assgt31\assgt31\obj\Debug\netcoreapp3.1\assgt31.genruntimeconfig.cache
