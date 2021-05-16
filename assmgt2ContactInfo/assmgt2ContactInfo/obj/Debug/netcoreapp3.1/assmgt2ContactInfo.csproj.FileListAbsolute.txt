@@ -1,0 +1,13 @@
+C:\Users\home\source\repos\assmgt2ContactInfo\assmgt2ContactInfo\bin\Debug\netcoreapp3.1\assmgt2ContactInfo.exe
+C:\Users\home\source\repos\assmgt2ContactInfo\assmgt2ContactInfo\bin\Debug\netcoreapp3.1\assmgt2ContactInfo.deps.json
+C:\Users\home\source\repos\assmgt2ContactInfo\assmgt2ContactInfo\bin\Debug\netcoreapp3.1\assmgt2ContactInfo.runtimeconfig.json
+C:\Users\home\source\repos\assmgt2ContactInfo\assmgt2ContactInfo\bin\Debug\netcoreapp3.1\assmgt2ContactInfo.runtimeconfig.dev.json
+C:\Users\home\source\repos\assmgt2ContactInfo\assmgt2ContactInfo\bin\Debug\netcoreapp3.1\assmgt2ContactInfo.dll
+C:\Users\home\source\repos\assmgt2ContactInfo\assmgt2ContactInfo\bin\Debug\netcoreapp3.1\assmgt2ContactInfo.pdb
+C:\Users\home\source\repos\assmgt2ContactInfo\assmgt2ContactInfo\obj\Debug\netcoreapp3.1\assmgt2ContactInfo.csprojAssemblyReference.cache
+C:\Users\home\source\repos\assmgt2ContactInfo\assmgt2ContactInfo\obj\Debug\netcoreapp3.1\assmgt2ContactInfo.AssemblyInfoInputs.cache
+C:\Users\home\source\repos\assmgt2ContactInfo\assmgt2ContactInfo\obj\Debug\netcoreapp3.1\assmgt2ContactInfo.AssemblyInfo.cs
+C:\Users\home\source\repos\assmgt2ContactInfo\assmgt2ContactInfo\obj\Debug\netcoreapp3.1\assmgt2ContactInfo.csproj.CoreCompileInputs.cache
+C:\Users\home\source\repos\assmgt2ContactInfo\assmgt2ContactInfo\obj\Debug\netcoreapp3.1\assmgt2ContactInfo.dll
+C:\Users\home\source\repos\assmgt2ContactInfo\assmgt2ContactInfo\obj\Debug\netcoreapp3.1\assmgt2ContactInfo.pdb
+C:\Users\home\source\repos\assmgt2ContactInfo\assmgt2ContactInfo\obj\Debug\netcoreapp3.1\assmgt2ContactInfo.genruntimeconfig.cache
