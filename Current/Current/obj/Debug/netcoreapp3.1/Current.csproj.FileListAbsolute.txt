@@ -1,0 +1,13 @@
+C:\Users\home\source\repos\Current\Current\bin\Debug\netcoreapp3.1\Current.exe
+C:\Users\home\source\repos\Current\Current\bin\Debug\netcoreapp3.1\Current.deps.json
+C:\Users\home\source\repos\Current\Current\bin\Debug\netcoreapp3.1\Current.runtimeconfig.json
+C:\Users\home\source\repos\Current\Current\bin\Debug\netcoreapp3.1\Current.runtimeconfig.dev.json
+C:\Users\home\source\repos\Current\Current\bin\Debug\netcoreapp3.1\Current.dll
+C:\Users\home\source\repos\Current\Current\bin\Debug\netcoreapp3.1\Current.pdb
+C:\Users\home\source\repos\Current\Current\obj\Debug\netcoreapp3.1\Current.csprojAssemblyReference.cache
+C:\Users\home\source\repos\Current\Current\obj\Debug\netcoreapp3.1\Current.AssemblyInfoInputs.cache
+C:\Users\home\source\repos\Current\Current\obj\Debug\netcoreapp3.1\Current.AssemblyInfo.cs
+C:\Users\home\source\repos\Current\Current\obj\Debug\netcoreapp3.1\Current.csproj.CoreCompileInputs.cache
+C:\Users\home\source\repos\Current\Current\obj\Debug\netcoreapp3.1\Current.dll
+C:\Users\home\source\repos\Current\Current\obj\Debug\netcoreapp3.1\Current.pdb
+C:\Users\home\source\repos\Current\Current\obj\Debug\netcoreapp3.1\Current.genruntimeconfig.cache

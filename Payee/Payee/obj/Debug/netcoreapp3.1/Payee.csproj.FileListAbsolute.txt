@@ -1,0 +1,13 @@
+C:\Users\home\source\repos\Payee\Payee\bin\Debug\netcoreapp3.1\Payee.exe
+C:\Users\home\source\repos\Payee\Payee\bin\Debug\netcoreapp3.1\Payee.deps.json
+C:\Users\home\source\repos\Payee\Payee\bin\Debug\netcoreapp3.1\Payee.runtimeconfig.json
+C:\Users\home\source\repos\Payee\Payee\bin\Debug\netcoreapp3.1\Payee.runtimeconfig.dev.json
+C:\Users\home\source\repos\Payee\Payee\bin\Debug\netcoreapp3.1\Payee.dll
+C:\Users\home\source\repos\Payee\Payee\bin\Debug\netcoreapp3.1\Payee.pdb
+C:\Users\home\source\repos\Payee\Payee\obj\Debug\netcoreapp3.1\Payee.AssemblyInfoInputs.cache
+C:\Users\home\source\repos\Payee\Payee\obj\Debug\netcoreapp3.1\Payee.AssemblyInfo.cs
+C:\Users\home\source\repos\Payee\Payee\obj\Debug\netcoreapp3.1\Payee.csproj.CoreCompileInputs.cache
+C:\Users\home\source\repos\Payee\Payee\obj\Debug\netcoreapp3.1\Payee.dll
+C:\Users\home\source\repos\Payee\Payee\obj\Debug\netcoreapp3.1\Payee.pdb
+C:\Users\home\source\repos\Payee\Payee\obj\Debug\netcoreapp3.1\Payee.genruntimeconfig.cache
+C:\Users\home\source\repos\Payee\Payee\obj\Debug\netcoreapp3.1\Payee.csprojAssemblyReference.cache
