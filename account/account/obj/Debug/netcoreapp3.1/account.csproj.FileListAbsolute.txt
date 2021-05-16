@@ -1,0 +1,13 @@
+C:\Users\home\source\repos\account\account\bin\Debug\netcoreapp3.1\account.exe
+C:\Users\home\source\repos\account\account\bin\Debug\netcoreapp3.1\account.deps.json
+C:\Users\home\source\repos\account\account\bin\Debug\netcoreapp3.1\account.runtimeconfig.json
+C:\Users\home\source\repos\account\account\bin\Debug\netcoreapp3.1\account.runtimeconfig.dev.json
+C:\Users\home\source\repos\account\account\bin\Debug\netcoreapp3.1\account.dll
+C:\Users\home\source\repos\account\account\bin\Debug\netcoreapp3.1\account.pdb
+C:\Users\home\source\repos\account\account\obj\Debug\netcoreapp3.1\account.csprojAssemblyReference.cache
+C:\Users\home\source\repos\account\account\obj\Debug\netcoreapp3.1\account.AssemblyInfoInputs.cache
+C:\Users\home\source\repos\account\account\obj\Debug\netcoreapp3.1\account.AssemblyInfo.cs
+C:\Users\home\source\repos\account\account\obj\Debug\netcoreapp3.1\account.csproj.CoreCompileInputs.cache
+C:\Users\home\source\repos\account\account\obj\Debug\netcoreapp3.1\account.dll
+C:\Users\home\source\repos\account\account\obj\Debug\netcoreapp3.1\account.pdb
+C:\Users\home\source\repos\account\account\obj\Debug\netcoreapp3.1\account.genruntimeconfig.cache
